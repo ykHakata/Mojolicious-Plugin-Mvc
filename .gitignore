@@ -1,0 +1,4 @@
+local/
+log/
+db/*.db
+.DS_Store
